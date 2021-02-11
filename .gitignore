@@ -4,3 +4,6 @@ out
 .gradle
 
 .idea
+*.exe
+*.json
+*.json
